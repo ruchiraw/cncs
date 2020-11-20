@@ -1,0 +1,3337 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/github/home/.arduino15/packages/arduino/hardware/avr/1.8.3/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/github/home/.arduino15/packages/arduino/hardware/avr/1.8.3/variants/mega"
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/Marlin.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/AVR/HAL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/AVR/HAL_SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/AVR/MarlinSerial.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/AVR/Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/AVR/eeprom.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/AVR/fast_pwm.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/AVR/fastio.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/AVR/u8g_com_HAL_AVR_sw_spi.cpp",
+    "Include": "U8glib.h",
+    "Includepath": "/github/home/Arduino/libraries/U8glib/src"
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/AVR/u8g_com_HAL_AVR_sw_spi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/AVR/watchdog.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/shared/HAL_spi_L6470.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/shared/backtrace/backtrace.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/shared/backtrace/unwarm.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/shared/backtrace/unwarm_arm.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/shared/backtrace/unwarm_thumb.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/shared/backtrace/unwarmbytab.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/shared/backtrace/unwarmmem.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/shared/backtrace/unwinder.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/shared/backtrace/unwmemaccess.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/shared/eeprom_api.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/shared/eeprom_if_i2c.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/shared/eeprom_if_spi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/shared/esp_wifi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/HAL/shared/servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/MarlinCore.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/core/serial.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/core/utility.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/babystep.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/backlash.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/baricuda.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/bedlevel/abl/abl.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/bedlevel/bedlevel.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/bedlevel/mbl/mesh_bed_leveling.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/bedlevel/ubl/ubl.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/bedlevel/ubl/ubl_G29.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/bedlevel/ubl/ubl_motion.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/binary_stream.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/bltouch.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/cancel_object.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/caselight.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/closedloop.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/controllerfan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/dac/dac_dac084s085.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/dac/dac_mcp4728.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/dac/stepper_dac.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/digipot/digipot_mcp4018.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/digipot/digipot_mcp4451.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/direct_stepping.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/e_parser.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/encoder_i2c.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/fanmux.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/filwidth.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/fwretract.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/host_actions.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/hotend_idle.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/joystick.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/leds/blinkm.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/leds/leds.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/leds/neopixel.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/leds/pca9533.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/leds/pca9632.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/leds/printer_event_leds.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/leds/tempstat.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/max7219.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/mixing.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/mmu2/mmu2.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/password/password.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/pause.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/power.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/power_monitor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/powerloss.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/probe_temp_comp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/runout.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/snmm.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/solenoid.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/spindle_laser.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/tmc_util.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/twibus.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/feature/z_stepper_align.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/bedlevel/G26.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/bedlevel/G35.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/bedlevel/G42.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/bedlevel/M420.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/bedlevel/abl/G29.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/bedlevel/abl/M421.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/bedlevel/mbl/G29.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/bedlevel/mbl/M421.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/bedlevel/ubl/G29.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/bedlevel/ubl/M421.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/calibrate/G28.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/calibrate/G33.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/calibrate/G34.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/calibrate/G34_M422.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/calibrate/G425.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/calibrate/G76_M192_M871.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/calibrate/M100.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/calibrate/M12.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/calibrate/M425.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/calibrate/M48.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/calibrate/M665.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/calibrate/M666.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/calibrate/M852.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M200-M205.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M217.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M218.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M220.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M221.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M281.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M301.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M302.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M304.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M305.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M43.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M540.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M575.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M672.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/config/M92.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M108_M112_M410.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M111.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M120_M121.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M17_M18_M84.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M211.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M226.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M280.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M3-M5.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M350_M351.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M380_M381.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M400.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M42.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M605.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M7-M9.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M80_M81.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M85.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M993_M994.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M997.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/M999.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/control/T.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/eeprom/M500-M504.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/L6470/M122.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/L6470/M906.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/L6470/M916-918.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/advance/M900.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/baricuda/M126-M129.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/camera/M240.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/cancel/M486.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/caselight/M355.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/clean/G12.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/controllerfan/M710.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/digipot/M907-M910.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/filwidth/M404-M407.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/fwretract/G10_G11.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/fwretract/M207-M209.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/i2c/M260_M261.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/leds/M150.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/leds/M7219.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/macro/M810-M819.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/mixing/M163-M165.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/mixing/M166.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/password/M510-M512.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/pause/G27.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/pause/G60.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/pause/G61.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/pause/M125.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/pause/M600.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/pause/M603.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/pause/M701_M702.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/power_monitor/M430.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/powerloss/M1000.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/powerloss/M413.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/prusa_MMU2/M403.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/runout/M412.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/trinamic/M122.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/trinamic/M569.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/trinamic/M906.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/feature/trinamic/M911-M914.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/gcode.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/gcode_d.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/geometry/G17-G19.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/geometry/G53-G59.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/geometry/G92.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/geometry/M206_M428.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/host/M110.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/host/M113.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/host/M114.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/host/M115.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/host/M118.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/host/M119.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/host/M16.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/host/M360.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/host/M876.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/lcd/M0_M1.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/lcd/M117.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/lcd/M145.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/lcd/M250.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/lcd/M300.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/lcd/M73.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/lcd/M995.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/motion/G0_G1.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/motion/G2_G3.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/motion/G4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/motion/G5.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/motion/G6.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/motion/G80.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/motion/M290.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/parser.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/probe/G30.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/probe/G31_G32.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/probe/G38.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/probe/M401_M402.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/probe/M851.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/probe/M951.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/queue.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/scara/M360-M364.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/sd/M1001.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/sd/M20.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/sd/M21_M22.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/sd/M23.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/sd/M24_M25.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/sd/M26.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/sd/M27.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/sd/M28_M29.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/sd/M30.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/sd/M32.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/sd/M33.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/sd/M34.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/sd/M524.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/sd/M928.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/stats/M31.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/stats/M75-M78.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/temp/M104_M109.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/temp/M105.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/temp/M106_M107.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/temp/M140_M190.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/temp/M141_M191.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/temp/M155.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/temp/M303.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/units/G20_G21.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/units/M149.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/gcode/units/M82_M83.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/HD44780/lcdprint_hd44780.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/HD44780/ultralcd_HD44780.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/TFTGLCD/lcdprint_TFTGLCD.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/TFTGLCD/ultralcd_TFTGLCD.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/lcdprint_u8g.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/status_screen_DOGM.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/status_screen_lite_ST7920.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/u8g_dev_ssd1306_sh1106_128x64_I2C.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/u8g_dev_st7565_64128n_HAL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/u8g_dev_st7920_128x64_HAL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/u8g_dev_tft_upscale_from_128x64.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/u8g_dev_uc1701_mini12864_HAL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/u8g_fontutf8.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/ultralcd_DOGM.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/ultralcd_st7920_u8glib_rrd_AVR.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dwin/dwin_lcd.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dwin/e3v2/dwin.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dwin/e3v2/rotary_encoder.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/anycubic_chiron_lcd.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/anycubic_i3mega_lcd.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/dgus_lcd.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/example.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/anycubic_chiron/FileNavigator.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/anycubic_chiron/Tunes.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/anycubic_chiron/chiron_tft.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/anycubic_i3mega/anycubic_i3mega_lcd.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/dgus/DGUSDisplay.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/dgus/DGUSScreenHandler.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/dgus/fysetc/DGUSDisplayDef.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/dgus/hiprecy/DGUSDisplayDef.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/dgus/origin/DGUSDisplayDef.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/archim2-flash/flash_storage.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/archim2-flash/media_file_reader.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/basic/commands.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/basic/spi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/extended/command_processor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/extended/dl_cache.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/extended/event_loop.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/extended/screen_types.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/extended/sound_player.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/extended/text_box.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/extended/text_ellipsis.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/extended/tiny_timer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/extended/unicode/font_bitmaps.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/extended/unicode/font_size_t.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/extended/unicode/standard_char_set.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/extended/unicode/unicode.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/ftdi_eve_lib/extended/unicode/western_char_set.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/language/language.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/marlin_events.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/about_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/advanced_settings_menu.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/alert_dialog_box.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/backlash_compensation_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/base_numeric_adjustment_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/base_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/bed_mesh_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/bio_advanced_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/bio_confirm_home_e.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/bio_confirm_home_xyz.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/bio_main_menu.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/bio_printing_dialog_box.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/bio_status_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/bio_tune_menu.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/boot_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/case_light_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/change_filament_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/confirm_abort_print_dialog_box.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/confirm_auto_calibration_dialog_box.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/confirm_erase_flash_dialog_box.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/confirm_start_print_dialog_box.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/confirm_user_request_alert_box.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/default_acceleration_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/developer_menu.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/dialog_box_base_class.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/display_tuning_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/endstop_state_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/feedrate_percent_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/filament_menu.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/filament_runout_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/files_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/interface_settings_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/interface_sounds_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/jerk_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/junction_deviation_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/kill_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/language_menu.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/leveling_menu.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/linear_advance_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/lock_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/main_menu.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/max_acceleration_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/max_velocity_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/media_player_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/move_axis_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/nozzle_offsets_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/nudge_nozzle_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/preheat_menu.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/preheat_timer_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/restore_failsafe_dialog_box.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/save_settings_dialog_box.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/screens.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/spinner_dialog_box.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/statistics_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/status_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/stepper_bump_sensitivity_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/stepper_current_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/steps_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/stress_test_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/string_format.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/temperature_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/touch_calibration_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/touch_registers_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/tune_menu.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/widget_demo_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/screens/z_offset_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/ftdi_eve_touch_ui/theme/sounds.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/SPIFlashStorage.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/SPI_TFT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_about.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_acceleration_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_advance_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_auto_level_offset_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_baby_stepping.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_change_speed.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_dialog.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_eeprom_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_encoder_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_error_message.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_extrusion.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_fan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_filament_change.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_filament_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_home.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_homing_sensitivity_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_jerk_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_keyboard.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_language.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_level_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_machine_para.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_machine_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_manuaLevel.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_manual_level_pos_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_max_feedrate_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_motor_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_move_motor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_number_key.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_operation.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_pause_message.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_pause_position.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_preHeat.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_print_file.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_printing.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_ready_print.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_set.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_step_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_tmc_current_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_tmc_step_mode_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_tool.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_ui.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_wifi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_wifi_list.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_wifi_settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/draw_wifi_tips.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/gb2312_puhui16.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/irq_overrid.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/mks_hardware_test.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/pic_manager.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/printer_operation.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/tft_lvgl_configuration.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/tft_multi_language.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/wifiSerial.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/wifi_module.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/lib/mks_ui/wifi_upload.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/malyan_lcd.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/extui/ui_api.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/fontutils.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/lcdprint.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/game/brickout.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/game/game.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/game/invaders.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/game/maze.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/game/snake.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_advanced.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_backlash.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_bed_corners.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_bed_leveling.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_cancelobject.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_configuration.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_custom.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_delta_calibrate.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_filament.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_game.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_info.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_job_recovery.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_led.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_main.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_media.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_mixer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_mmu2.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_motion.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_password.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_power_monitor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_probe_offset.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_spindle_laser.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_temperature.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_tmc.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_touch_screen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_tune.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/menu/menu_ubl.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/canvas.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/fontdata/fontdata_10x20.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/fontdata/fontdata_ISO10646_1.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/fontdata/helvetica_12_bold.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/fontdata/helvetica_14.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/fontdata/helvetica_18.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/fontdata/profont_22.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/back_32x32x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/background_320x30x16.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/bootscreen_112x38x1.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/bootscreen_195x59x16.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/bootscreen_228x255x2.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/bootscreen_228x255x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/bootscreen_320x240x16.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/bootscreen_480x320x16.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/btn_rounded_64x52x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/cancel_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/chamber_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/confirm_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/decrease_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/directory_32x32x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/down_32x32x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/fan_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/fan_fast_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/fan_slow_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/feedrate_32x32x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/flowrate_32x32x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/heated_bed_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/home_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/hotend_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/increase_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/left_32x32x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/leveling_32x32x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/menu_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/pause_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/refresh_32x32x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/right_32x32x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/sd_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/settings_64x64x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/slider_8x16x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/images/up_32x32x4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/tft.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/tft_image.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/tft_queue.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/tft_string.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/touch.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/ui_320x240.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft/ui_480x320.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/tft_io/tft_io.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/touch/touch_buttons.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/lcd/ultralcd.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/libs/BL24CXX.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/libs/L64XX/L64XX_Marlin.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/libs/W25Qxx.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/libs/buzzer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/libs/crc16.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/libs/heatshrink/heatshrink_decoder.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/libs/hex_print.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/libs/least_squares_fit.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/libs/nozzle.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/libs/numtostr.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/libs/stopwatch.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/libs/vector_3.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/delta.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/endstops.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/motion.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/planner.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/planner_bezier.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/printcounter.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/probe.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/scara.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/settings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/stepper/L64xx.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/stepper/TMC26X.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/stepper/indirection.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/stepper/trinamic.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/stepper.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/temperature.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/module/tool_change.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/sd/Sd2Card.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/sd/SdBaseFile.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/sd/SdFatUtil.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/sd/SdFile.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/sd/SdVolume.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/sd/cardreader.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/sd/usb_flashdrive/Sd2Card_FlashDrive.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/sd/usb_flashdrive/lib-uhs2/Usb.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/sd/usb_flashdrive/lib-uhs2/masstorage.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/sd/usb_flashdrive/lib-uhs2/message.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/sd/usb_flashdrive/lib-uhs2/parsetools.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/workspace/Marlin/Marlin/build/sketch/src/sd/usb_flashdrive/lib-uhs2/usbhost.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/U8glib.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/chessengine.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_bitmap.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_circle.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_clip.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_api.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_api_16gr.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_attiny85_hw_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_common.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_fast_parallel.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_hw_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_hw_usart_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_no_en_parallel.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_parallel.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_port_d_wr.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_ssd_i2c.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_st7920_custom.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_st7920_hw_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_st7920_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_std_sw_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_sw_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_t6963.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_arduino_uc_i2c.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_atmega_hw_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_atmega_parallel.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_atmega_st7920_hw_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_atmega_st7920_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_atmega_sw_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_atxmega_hw_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_atxmega_st7920_hw_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_i2c.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_io.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_linux_ssd_i2c.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_msp430_hw_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_null.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_psoc5_ssd_hw_parallel.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_raspberrypi_hw_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_raspberrypi_ssd_i2c.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_com_std_sw_spi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_cursor.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_delay.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_a2_micro_printer.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_flipdisc_2x7.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_gprof.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ht1632.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ili9325d_320x240.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ks0108_128x64.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_lc7981_160x80.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_lc7981_240x128.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_lc7981_240x64.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_lc7981_320x64.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ld7032_60x32.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_null.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_pcd8544_84x48.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_pcf8812_96x65.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_sbn1661_122x32.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ssd1306_128x32.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ssd1306_128x64.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ssd1306_64x48.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ssd1309_128x64.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ssd1322_nhd31oled_bw.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ssd1322_nhd31oled_gr.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ssd1325_nhd27oled_bw.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ssd1325_nhd27oled_bw_new.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ssd1325_nhd27oled_gr.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ssd1325_nhd27oled_gr_new.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ssd1327_96x96_gr.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ssd1351_128x128.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_ssd1353_160x128.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_st7565_64128n.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_st7565_dogm128.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_st7565_dogm132.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_st7565_lm6059.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_st7565_lm6063.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_st7565_nhd_c12832.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_st7565_nhd_c12864.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_st7687_c144mvgd.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_st7920_128x64.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_st7920_192x32.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_st7920_202x32.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_t6963_128x128.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_t6963_128x64.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_t6963_240x128.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_t6963_240x64.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_tls8204_84x48.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_uc1601_c128032.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_uc1608_240x128.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_uc1608_240x64.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_uc1610_dogxl160.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_uc1611_dogm240.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_uc1611_dogxl240.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_uc1701_dogs102.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_dev_uc1701_mini12864.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_ellipse.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_font.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_font_data.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_line.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_ll_api.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_page.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pb.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pb14v1.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pb16h1.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pb16h2.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pb16v1.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pb16v2.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pb32h1.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pb8h1.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pb8h1f.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pb8h2.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pb8h8.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pb8v1.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pb8v2.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pbxh16.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_pbxh24.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_polygon.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_rect.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_rot.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_scale.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_state.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_u16toa.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_u8toa.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/github/home/Arduino/libraries/U8glib/src/clib/u8g_virtual_screen.c",
+    "Include": "",
+    "Includepath": null
+  }
+]

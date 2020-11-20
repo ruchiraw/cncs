@@ -1,0 +1,20 @@
+/github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/u8g_dev_ssd1306_sh1106_128x64_I2C.cpp.o: \
+ /github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/u8g_dev_ssd1306_sh1106_128x64_I2C.cpp \
+ /github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/../../inc/MarlinConfigPre.h \
+ /github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/../../inc/../HAL/platforms.h \
+ /github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/../../inc/../core/boards.h \
+ /github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/../../inc/../core/macros.h \
+ /github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/../../inc/../../Configuration.h \
+ /github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/../../inc/Version.h \
+ /github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/../../inc/Conditionals_LCD.h \
+ /github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/../../inc/../HAL/AVR/inc/Conditionals_LCD.h \
+ /github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/../../inc/../core/drivers.h \
+ /github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/../../inc/../../Configuration_adv.h \
+ /github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/../../inc/Conditionals_adv.h \
+ /github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/../../inc/../HAL/AVR/inc/Conditionals_adv.h \
+ /github/workspace/Marlin/Marlin/build/sketch/src/lcd/dogm/HAL_LCD_com_defines.h \
+ /github/home/Arduino/libraries/U8glib/src/U8glib.h \
+ /github/home/.arduino15/packages/arduino/hardware/avr/1.8.3/cores/arduino/Print.h \
+ /github/home/.arduino15/packages/arduino/hardware/avr/1.8.3/cores/arduino/WString.h \
+ /github/home/.arduino15/packages/arduino/hardware/avr/1.8.3/cores/arduino/Printable.h \
+ /github/home/Arduino/libraries/U8glib/src/clib/u8g.h
