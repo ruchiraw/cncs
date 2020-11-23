@@ -81,6 +81,9 @@
 #ifndef SERVO3_PIN
   #define SERVO3_PIN                           4
 #endif
+#ifndef LASER_PIN
+  #define LASER_PIN                            44
+#endif
 
 //
 // Limit Switches
@@ -232,13 +235,13 @@
 
 #ifndef FAN_PIN
   #if EITHER(IS_RAMPS_EFB, IS_RAMPS_EFF)          // Hotend, Fan, Bed or Hotend, Fan, Fan
-    #define FAN_PIN                 RAMPS_D9_PIN
+    #define FAN_PIN                 LASER_PIN
   #elif EITHER(IS_RAMPS_EEF, IS_RAMPS_SF)         // Hotend, Hotend, Fan or Spindle, Fan
-    #define FAN_PIN                 RAMPS_D8_PIN
+    #define FAN_PIN                 LASER_PIN
   #elif ENABLED(IS_RAMPS_EEB)                     // Hotend, Hotend, Bed
-    #define FAN_PIN                            4  // IO pin. Buffer needed
+    #define FAN_PIN                 LASER_PIN     // IO pin. Buffer needed
   #else                                           // Non-specific are "EFB" (i.e., "EFBF" or "EFBE")
-    #define FAN_PIN                 RAMPS_D9_PIN
+    #define FAN_PIN                 LASER_PIN
   #endif
 #endif
 
